@@ -1,3 +1,0 @@
-[submodule "wordlist"]
-	path = wordlist
-	url = https://github.com/80columns/passphraser-wordlist.git
